@@ -1,0 +1,7 @@
+{
+  "name": "CodeHookCrudAPI",
+  "version": "1.0.0",
+  "dependencies": {
+    "codehooks-js": "^1.1.11"
+  }
+}
