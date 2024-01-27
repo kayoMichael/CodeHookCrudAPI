@@ -1,7 +1,14 @@
 {
-  "name": "CodeHookCrudAPI",
+  "name": "codehookcrudapi",
   "version": "1.0.0",
+  "description": "json-holder-rest-api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "codehooks-js": "^1.1.11"
+    "json-server": "^1.0.0-alpha.23"
   }
 }
